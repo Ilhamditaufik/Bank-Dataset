@@ -25,6 +25,7 @@ Histori interaksi sebelumnya: pdays, previous, poutcome
 Memprediksi probabilitas keberhasilan sebuah kampanye pemasaran terhadap nasabah baru menggunakan model klasifikasi.
 
 ⚙️ Langkah-langkah Proyek
+
 1.Preprocessing:
 
   Encoding variabel kategorik
